@@ -1,0 +1,10 @@
+{"base":"stations","clouds":{"all":0},"cod":200,"coord":
+{"lat":18.4464,"lon":73.899},"dt":1615381526,"id":8131502,"main":{"grnd_level":938.0,"humidity":17,"pressure":1010.0,"sea_level":1010.0,
+"temp":31.15,"temp_max":31.15,"temp_min":31.15},"name":"Satara","sys":{"country":"IN","message":0.0,"sunrise":1615339008,
+"sunset":1615381971,"type":0},"visibility":10000,"weather":[{"description":"clear sky","icon":"01d","id":800,"main":"Clear"}],
+"wind":{"deg":315,"speed":0.2}}
+
+WeatherResponse(coord=Coord(lon=73.899, lat=18.4464), weather=[Weather(id=800, main=Clear, description=clear sky, icon=01d)],
+base=stations, main=Main(temp=31.15, pressure=1010.0, humidity=17, temp_min=31.15, temp_max=31.15, sea_level=1010.0, grnd_level=938.0),
+visibility=10000, wind=Wind(speed=0.2, deg=315), clouds=Clouds(all=0), dt=1615381526, sys=Sys(type=0, message=0.0, country=IN,
+sunrise=1615339008, sunset=1615381971), id=8131502, name=Satara, cod=200)
